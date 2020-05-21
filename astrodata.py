@@ -43,7 +43,7 @@ for index, row in astrodata.iterrows():
     #messier_coords += SkyCoord.from_name(row[1])
     #ss_coords += SkyCoord.from_name(row[2])
 
-
+#alt/az coordinate conversions
 
 #for row in astrodata:
  #   star_coords = SkyCoord.from_name(starsz
